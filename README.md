@@ -35,17 +35,14 @@ I am a passionate software developer who enjoys building scalable applications, 
 
 <h2 align="left">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Yash-Raj-5424&show_icons=true&theme=tokyonight&hide_border=true&card_width=900"
+<div align="center">
+  <img 
+    src="https://ghchart.rshah.org/2f81f7/Yash-Raj-5424"
+    alt="Yash-Raj-5424's GitHub contribution chart"
+    width="900"
   />
-</p>
+</div>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Yash-Raj-5424&theme=tokyonight&hide_border=true&card_width=900"
-  />
-</p>
 
 ---
 
@@ -58,11 +55,18 @@ I am a passionate software developer who enjoys building scalable applications, 
   />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://leetcard.jacoblin.cool/Yash_raj_01?theme=nord&ext=heatmap&width=900"
   />
+</p> -->
+
+<p align="center">
+  <img
+    src="https://leetcode-heatmap.vercel.app/api?username=Yash_raj_01&theme=nord&width=900"
+  />
 </p>
+
 
 
 
