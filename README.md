@@ -33,15 +33,55 @@ I am a passionate software developer who enjoys building scalable applications, 
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
+## 🚀 My GitHub Stats
 
 <div align="center">
-  <img 
-    src="https://ghchart.rshah.org/2f81f7/Yash-Raj-5424"
-    alt="Yash-Raj-5424's GitHub contribution chart"
-    width="900"
-  />
+
+<!-- GitHub Streak Stats -->
+<img 
+  src="https://streak-stats.demolab.com?user=Yash-Raj-5424&theme=radical&hide_border=true"
+  alt="Yash-Raj-5424 GitHub Streak"
+/>
+
+<br/><br/>
+
+<!-- Main GitHub Stats -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Yash-Raj-5424&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+  alt="Yash-Raj-5424 GitHub Stats"
+/>
+
+<br/><br/>
+
+<!-- Top Languages -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Raj-5424&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=5CE1E6&text_color=FFFFFF"
+  alt="Top Languages"
+/>
+
+<br/><br/>
+
+<!-- Profile Summary Card -->
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yash-Raj-5424&theme=tokyonight"
+  alt="GitHub Profile Summary"
+/>
+
 </div>
+
+---
+
+## 🌟 Contribution Metrics
+
+<div align="center">
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Raj-5424&bg_color=0D1117&color=5CE1E6&line=5CE1E6&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Graph"
+  alt="GitHub Activity Graph"
+/>
+
+</div>
+
 
 
 ---
