@@ -36,23 +36,34 @@ I am a passionate software developer who enjoys building scalable applications, 
 <h2 align="left">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash-Raj-5424&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Yash-Raj-5424&show_icons=true&theme=tokyonight&hide_border=true&card_width=900"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yash-Raj-5424&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=Yash-Raj-5424&theme=tokyonight&hide_border=true&card_width=900"
+  />
 </p>
 
 ---
 
 ## 🧠 LeetCode Stats
 
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://leetcard.jacoblin.cool/Yash_raj_01?theme=nord&ext=heatmap"
     height="200" width="full"
   />
+</p> -->
+
+<p align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/Yash_raj_01?theme=nord&ext=heatmap&width=900"
+  />
 </p>
+
 
 
 
