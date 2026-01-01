@@ -36,15 +36,14 @@ I am a passionate software developer who enjoys building scalable applications, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Yash-Raj-5424&show_icons=true&theme=tokyonight"
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Raj-5424&layout=compact&theme=tokyonight"
-    height="165"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash-Raj-5424&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Raj-5424&layout=compact&theme=tokyonight" height="165" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Yash-Raj-5424&theme=tokyonight" />
+</p>
+
 
 <p align="center">
   <img 
