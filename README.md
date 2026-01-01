@@ -41,16 +41,18 @@ I am a passionate software developer who enjoys building scalable applications, 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Raj-5424&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Yash-Raj-5424&theme=tokyonight"/>
 </p>
+
 
 ---
 
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcode-streak-stats.herokuapp.com/?user=Yash_Raj_01&theme=dark"/>
+  <img src="https://leetcard.jacoblin.cool/Yash_raj_01?theme=dark&font=Karma&ext=heatmap"/>
 </p>
+
 
 ---
 
