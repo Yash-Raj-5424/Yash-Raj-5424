@@ -98,11 +98,18 @@ I believe in continuous improvement and enjoy exploring system design, software 
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN  
-- 🐦 Twitter (X): https://twitter.com/YOUR_TWITTER  
-- 📸 Instagram: https://instagram.com/YOUR_INSTAGRAM  
-- 💬 Discord: YOUR_DISCORD_USERNAME  
-
+ <a href="">
+    <img align="left" alt="Yash Raj | Linkedin" width="24px" src="" />
+  </a> &nbsp;&nbsp;
+  <a href="">
+    <img align="left" alt="Yash Raj | Twitter" width="26px" src="" />
+  </a> &nbsp;&nbsp;
+  <a href="">
+    <img align="left" alt="Yash Raj | Instagram" width="24px" src="" />
+  </a> &nbsp;&nbsp;
+  <a href="">
+    <img align="left" alt="Yash Raj | Gmail" width="26px" src="" />
+  </a>
 ---
 
 ⭐ If you like my work, consider starring ⭐ my repositories!
