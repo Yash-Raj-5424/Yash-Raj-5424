@@ -33,9 +33,6 @@ I am a passionate software developer who enjoys building scalable applications, 
 
 ---
 
-
-<hr>
-
 <h2 align="left">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -45,11 +42,6 @@ I am a passionate software developer who enjoys building scalable applications, 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Yash-Raj-5424&theme=tokyonight&hide_border=true" />
 </p>
-
-<hr>
-
-
-
 
 ---
 
