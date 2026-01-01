@@ -33,7 +33,6 @@ I am a passionate software developer who enjoys building scalable applications, 
 
 ---
 
-## 📊 GitHub Stats
 
 <hr>
 
