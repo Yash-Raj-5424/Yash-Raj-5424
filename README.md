@@ -62,7 +62,7 @@ I am a passionate software developer who enjoys building scalable applications, 
 <p align="center">
   <img 
     src="https://leetcard.jacoblin.cool/Yash_raj_01?theme=nord&ext=heatmap"
-    height="200"
+    height="200" width="100%"
   />
 </p>
 
