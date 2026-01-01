@@ -37,37 +37,36 @@ I am a passionate software developer who enjoys building scalable applications, 
 
 <div align="center">
 
-<!-- GitHub Streak Stats -->
-<img 
-  src="https://streak-stats.demolab.com?user=Yash-Raj-5424&theme=radical&hide_border=true"
-  alt="Yash-Raj-5424 GitHub Streak"
-/>
+  <!-- GitHub Main Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Yash-Raj-5424&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false"
+    height="160"
+    width="420"
+    alt="Yash-Raj-5424 GitHub Stats"
+  />
 
-<br/><br/>
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Raj-5424&layout=compact&langs_count=8&theme=tokyonight&hide_border=false"
+    height="160"
+    width="420"
+    alt="Most Used Languages"
+  />
 
-<!-- Main GitHub Stats -->
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=Yash-Raj-5424&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
-  alt="Yash-Raj-5424 GitHub Stats"
-/>
+  <br/><br/>
 
-<br/><br/>
-
-<!-- Top Languages -->
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Raj-5424&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=5CE1E6&text_color=FFFFFF"
-  alt="Top Languages"
-/>
-
-<br/><br/>
-
-<!-- Profile Summary Card -->
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yash-Raj-5424&theme=tokyonight"
-  alt="GitHub Profile Summary"
-/>
+  <!-- GitHub Streak -->
+  <img
+    src="https://streak-stats.demolab.com?user=Yash-Raj-5424&theme=tokyonight&hide_border=false"
+    height="180"
+    width="860"
+    alt="GitHub Streak"
+  />
 
 </div>
+
+
+
 
 ---
 
