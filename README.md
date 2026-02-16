@@ -69,12 +69,12 @@ I am a passionate software developer who enjoys building scalable applications, 
 
 ## 🧠 LeetCode Stats
 
-<!-- <p align="center">
+ <p align="center">
   <img 
     src="https://leetcard.jacoblin.cool/Yash_raj_01?theme=nord&ext=heatmap"
     height="200" width="full"
   />
-</p> -->
+</p> 
 
 <!-- <p align="center">
   <img
@@ -119,18 +119,13 @@ I believe in continuous improvement and enjoy exploring system design, software 
 
 ## 🤝 Connect With Me
 
- <a href="">
-    <img align="left" alt="Yash Raj | Linkedin" width="24px" src="https://www.linkedin.com/in/yash-raj-b0299a293" />
-  </a> &nbsp;&nbsp;
-  <a href="">
-    <img align="left" alt="Yash Raj | Twitter" width="26px" src="https://x.com/yash_mish91" />
-  </a> &nbsp;&nbsp;
-  <a href="">
-    <img align="left" alt="Yash Raj | Instagram" width="24px" src="https://www.instagram.com/yashmish_404?igsh=MTFzZm1rajZhazcwZQ==" />
-  </a> &nbsp;&nbsp;
-  <a href="">
-    <img align="left" alt="Yash Raj | Gmail" width="26px" src="yashraj31706@gmail.com" />
-  </a>
+ <div align="center">
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yash_raj_01/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-raj-b0299a293)
+
+
+</div>
 ---
 
 ⭐ If you like my work, consider starring ⭐ my repositories!
