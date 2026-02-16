@@ -120,16 +120,16 @@ I believe in continuous improvement and enjoy exploring system design, software 
 ## 🤝 Connect With Me
 
  <a href="">
-    <img align="left" alt="Yash Raj | Linkedin" width="24px" src="" />
+    <img align="left" alt="Yash Raj | Linkedin" width="24px" src="https://www.linkedin.com/in/yash-raj-b0299a293" />
   </a> &nbsp;&nbsp;
   <a href="">
-    <img align="left" alt="Yash Raj | Twitter" width="26px" src="" />
+    <img align="left" alt="Yash Raj | Twitter" width="26px" src="https://x.com/yash_mish91" />
   </a> &nbsp;&nbsp;
   <a href="">
-    <img align="left" alt="Yash Raj | Instagram" width="24px" src="" />
+    <img align="left" alt="Yash Raj | Instagram" width="24px" src="https://www.instagram.com/yashmish_404?igsh=MTFzZm1rajZhazcwZQ==" />
   </a> &nbsp;&nbsp;
   <a href="">
-    <img align="left" alt="Yash Raj | Gmail" width="26px" src="" />
+    <img align="left" alt="Yash Raj | Gmail" width="26px" src="yashraj31706@gmail.com" />
   </a>
 ---
 
