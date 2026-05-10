@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Aspiring Software Developer
 
-I am a passionate software developer who enjoys building scalable applications, solving problems, and continuously learning new technologies. I have a strong foundation in backend and full-stack development and love turning ideas into reliable software.
+I am a passionate software developer who enjoys building scalable applications, solving problems, and continuously learning new technologies. I have a strong foundation in backend development and love turning ideas into reliable software.
 
 ---
 
@@ -52,19 +52,6 @@ I am a passionate software developer who enjoys building scalable applications, 
 </div>
 ---
 
-## 🌟 Contribution Metrics
-
-<div align="center">
-
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Raj-5424&bg_color=0D1117&color=5CE1E6&line=5CE1E6&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Graph"
-  alt="GitHub Activity Graph"
-/>
-
-</div>
-
-
-
 ---
 
 ## 🧠 LeetCode Stats
@@ -90,30 +77,16 @@ I am a passionate software developer who enjoys building scalable applications, 
 
 
 
-
-
-
 ---
 
 ## 🚀 What I’m Currently Focused On
 - Backend development with **Java & Spring Boot**
-- Building **full-stack applications** using React and Node.js
+- Building backend heavy systems with distributed architecture
 - Improving **database design and query optimization**
 - Writing **clean, efficient, and scalable code**
 
 ---
 
-## 📌 What You’ll Find on My GitHub
-- Data Structures & Algorithms practice  
-- Backend projects using Java & Spring Boot  
-- Full-stack projects with React & Node.js  
-- Database-driven applications  
-- Learning projects and experiments  
-
----
-
-## 🌱 Always Learning
-I believe in continuous improvement and enjoy exploring system design, software architecture, and real-world problem solving.
 
 ---
 
